@@ -4,3 +4,7 @@
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
 }
+
+html, body {
+	font-size: 100%;
+}
